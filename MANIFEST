@@ -1,0 +1,7 @@
+.cvsignore
+MANIFEST
+META.yml
+Makefile.PL
+README
+lib/Data/ID/Maildir.pm
+t/id.t
