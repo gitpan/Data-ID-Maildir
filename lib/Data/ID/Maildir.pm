@@ -22,9 +22,9 @@ use strict;
 
 use Exporter;
 use Sys::Hostname qw(hostname);
-use Time::HiRes qw(gettimeofday);
+use Time::HiRes 1.00 qw(gettimeofday);
 
-our $VERSION = "0.000";
+our $VERSION = "0.001";
 
 our @ISA = qw(Exporter);
 
