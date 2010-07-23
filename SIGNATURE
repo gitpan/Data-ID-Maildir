@@ -1,5 +1,5 @@
 This file contains message digests of all files listed in MANIFEST,
-signed via the Module::Signature module, version 0.55.
+signed via the Module::Signature module, version 0.64.
 
 To verify the content in this distribution, first make sure you have
 Module::Signature installed, then type:
@@ -14,21 +14,21 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 e1305fef8462f4750e92d5518fbab289ed516659 .cvsignore
-SHA1 2a851aa74f273c0883a1d911cab73d10a63e66cc Build.PL
-SHA1 f636a8adf72889641a3394776efe56f9c82ff8d5 Changes
+SHA1 5e771edc45ec5d66424882310b1fa9bacc5adf43 .cvsignore
+SHA1 36a9669fef6f53debbd9bb382d51a91d3e68b11a Build.PL
+SHA1 bc529bc039422e0aa7050b4f6abac375c17efc3c Changes
 SHA1 e58b6c07fbd3f7e7f3a1df28f2e99e91b97482f6 MANIFEST
-SHA1 1161f96758f64fd5d08bd9185a2daf1383356398 META.yml
-SHA1 cd14ada78fb37a0d926edd86eddcdf7f939de582 Makefile.PL
-SHA1 ae250270868bf22e59eb712577c065ebdf69229a README
-SHA1 077c7b8b2fd1a89601e92cdfa6981f9117a8816a lib/Data/ID/Maildir.pm
-SHA1 2a554b0d90fdd3fa3870a7ae3e737d3a2736f8cd t/id.t
-SHA1 0e141eecf3ca4903ef38d9413b5403a9ddb0392f t/pod_cvg.t
-SHA1 74a957cd8b93f25672ecc6aa578a671d084dd343 t/pod_syn.t
+SHA1 2f97e5c5e3646723eb7ac0683bbbba77771b4067 META.yml
+SHA1 caae608231ffe78390c76451ade51a7cfc87a9f9 Makefile.PL
+SHA1 a9712af0d204996b93141e28d241160e99fdd032 README
+SHA1 4593d4cc4910a5cd863427887c24b389e6f9d42f lib/Data/ID/Maildir.pm
+SHA1 80f15b0b5c1e8be8eb8d200d994559fedeec699e t/id.t
+SHA1 904d9a4f76525e2303e4b0c168c68230f223c8de t/pod_cvg.t
+SHA1 65c75abdef6f01a5d1588a307f2ddfe2333dc961 t/pod_syn.t
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.4.6 (GNU/Linux)
+Version: GnuPG v1.4.9 (GNU/Linux)
 
-iD8DBQFG+sDZOV9mt2VyAVERAv1tAJ41kk/Tbr75szpJHKQp9vWMX+KgOgCfUlHp
-abW/GkLk5bCSPUKEzF89vK8=
-=8XkB
+iEYEARECAAYFAkxJ5dAACgkQOV9mt2VyAVFNHQCcCAOvWZQG9CkRViqN/NBIFApM
+HKgAn0s69xdbv93RGn0eHjUNOgO+YRZ5
+=2dxU
 -----END PGP SIGNATURE-----
