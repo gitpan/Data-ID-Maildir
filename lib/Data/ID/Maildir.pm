@@ -24,7 +24,7 @@ use strict;
 use Sys::Hostname qw(hostname);
 use Time::HiRes 1.00 qw(gettimeofday);
 
-our $VERSION = "0.003";
+our $VERSION = "0.004";
 
 use parent "Exporter";
 our @EXPORT_OK = qw(maildir_id);
@@ -75,7 +75,8 @@ Andrew Main (Zefram) <zefram@fysh.org>
 
 =head1 COPYRIGHT
 
-Copyright (C) 2004, 2007, 2010 Andrew Main (Zefram) <zefram@fysh.org>
+Copyright (C) 2004, 2007, 2010, 2011
+Andrew Main (Zefram) <zefram@fysh.org>
 
 =head1 LICENSE
 
